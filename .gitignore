@@ -1,3 +1,6 @@
 .spyproject
 subimages
 __pycache__
+temp
+data
+*.xcf
